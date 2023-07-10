@@ -9,6 +9,7 @@
 
 Zadania a krátke zápočty ktoré som vypracoval počas 5. semestra v rámci predmetu Webové technológie 1
 
+##Stránky hostované na školskom servery:
 - [Zadanie 1](https://webte1.fei.stuba.sk/~xkrizanovsky/prveZadanie) - CV je neaktuálne
 - [Zadanie 2](https://webte1.fei.stuba.sk/~xkrizanovsky/webteJednaDruheZadanie)
 - [Zadanie 3](https://webte1.fei.stuba.sk/~xkrizanovsky/webteJednaTretieZadanie) - old.iolab.sk už neposiela dáta
